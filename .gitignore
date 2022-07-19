@@ -1,0 +1,13 @@
+*.txt
+*.json
+*.exe
+*.c
+*.cpp
+*.js
+ 
+simpleTest.py
+test1.py
+
+/%LOCALAPPDATA%
+/.vscode
+
